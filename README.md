@@ -68,7 +68,7 @@ while (curious) {
 
 <!-- ✦ OPTIONAL STATS (uncomment once you self-host github-readme-stats) ✦
 <p align="center">
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0b07&title_color=f5a623&icon_color=ffd166&text_color=fff4d6" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=glowstonesq1&show_icons=true&hide_border=true&bg_color=0d0b07&title_color=f5a623&icon_color=ffd166&text_color=fff4d6" />
 </p>
 -->
 
